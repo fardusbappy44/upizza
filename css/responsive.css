@@ -1,0 +1,428 @@
+@media (max-width:1700px){
+
+	 .order-sec{
+		 transform: translate(100px);
+	}
+
+	.d-left{
+		left: 75px;
+	}
+
+	.d-right{
+		right: 50px;
+	}
+}
+
+@media (max-width:1440px){
+
+	.order-sec{
+		 transform: translate(150px);
+	}
+
+	.d-left{
+		left: 75px;
+	}
+
+	.d-right{
+		right: 0px;
+	}
+
+	.pizza-1{
+		right: 25px;
+	}
+
+	.tomato{
+		right: 350px;
+	}
+
+	.barry{
+		right: 650px;
+	}
+
+}
+
+@media (max-width:1399px){
+
+	.shoping p{
+ 		font-size: 16px;
+ 		font-weight: bold;
+	}
+
+	.shoping p:after{
+		transform: translate(0);
+	}
+
+	.nevigation ul li a{
+		font-size: 16px;
+		font-weight: bold;
+	}
+
+	.order-sec-title h2{
+		font-size: 30px;
+	}
+
+	.d-left{
+		left: 75px;
+	}
+
+	.d-right{
+		right: 30px;
+	}
+
+	.pizza-1{
+		right: 50px;
+	}
+
+	.tomato{
+		right: 350px;
+	}
+ 
+}
+
+@media (max-width:1300px){
+
+	.d-right{
+		right:-30px;
+	}
+
+	.pizza-1{
+		right: -25px;
+	}
+
+	.tomato{
+		right: 250px;
+	}
+
+	.barry{
+		right: 600px;
+	}
+
+}
+
+@media (max-width:1199px){
+
+ 	.shoping p:after{
+		transform: translate(5px);
+	}
+
+	.nevigation ul{
+		transform: translatey(15px);
+	}
+
+	.shoping p{
+		transform: translatey(23px);
+
+	}
+
+	.order-sec-buttom{
+		padding-right:55px;
+	}
+
+	.d-right{
+		right:30px;
+	}
+
+	.pizza-1{
+		top: 700px;
+		right: 25px;
+	}
+
+	.tomato{
+		right: 250px;
+		top: 550px;
+	}
+
+	.barry{
+		top: 1150px;
+		right: 580px;
+	}
+
+	.d-left{
+		top: 500px;
+	}
+
+
+}
+
+@media (max-width:1100px){
+
+	.d-right{
+		right:-50px;
+	}
+
+	.d-left{
+		left: 50px;
+	}
+	
+
+}
+
+@media (max-width:991px){
+
+	.nevigation{
+		display: none;
+	}
+
+	.shoping{
+		display: none;
+	}
+
+	.res-icon{
+		display: block;
+	}
+
+	.res-icon .fa-times{
+		display: none;
+	}
+
+	.res-nav{
+		display: block;
+	}
+
+	.order-sec{
+		 transform: translate(0px);
+	}
+
+	.order-sec-buttom{
+		padding-right:80px;
+	}
+
+	.d-left{
+		left: 10px;
+		top: 700px;
+	}
+
+	.pizza-1{
+		top: 850px;
+		right: -25px;
+	}
+
+	.tomato{
+		top: 700px;
+	}
+
+	.d-right{
+		top: 500px;
+	}
+	 
+	.barry{
+		top: 1300px;
+	}
+
+}
+
+@media (max-width:900px){
+
+	 .barry{
+	 	left:0;
+	 	transform: translate(20px);
+	 }
+
+}
+
+@media (max-width:800px){
+
+	.d-right img{
+		width: 200px;
+	}
+
+	.d-left img{
+		width: 200px;
+	}
+
+	.barry {
+		top: 1400px;
+		left: 150px;
+		width: 30%;
+	}
+
+}
+
+@media (max-width:700px){
+
+	.d-right{
+		top: 750px;
+	}
+
+	.d-left{
+		top: 900px;
+	}
+
+	.tomato{
+		top: 750px;
+		width: 30%;
+	}
+
+	.barry{
+		width: 35%;
+	}
+
+
+
+}
+
+@media (max-width:600px){
+
+	.barry{
+		 transform: translate(350px, 50px);
+		 width: 40%;
+		 left: 0;
+	}
+
+	.pizza-1{
+		width: 120%;
+		transform: translate(10px);
+	}
+
+}
+
+@media (max-width:550px){
+
+	.barry{
+		top: 1300px;
+	}
+
+	.res-icon{
+		transform: translate(0px, 10px);
+		font-size: 30px;
+	}
+}
+
+@media (max-width:500px){
+
+	 .order-sec-buttom{
+		padding-right:20px;
+	}
+
+	.barry{
+		top: 1250px;
+	}
+
+	.d-right img{
+		width: 150px;
+	}
+
+	.d-left img{
+		width: 150px;
+	}
+
+	.d-right{
+		right: -50px;
+	}
+
+	.res-icon{
+		transform: translate(50px);
+	}
+}
+
+@media (max-width:450px){
+
+	.d-right{
+		right:0px;
+	}
+
+	.barry{
+		top: 1250px;
+		transform: translate(225px, -10px);
+	}
+
+	.pizza-1{
+		transform: translate(-30px);
+		width: 110%;
+	}
+
+	.tomato{
+		transform: translate(100px);
+	}
+
+	.res-icon{
+		transform: translate(0px, 10px);
+		font-size: 30px;
+	}
+}
+
+@media (max-width:400px){
+
+	.d-right{
+		right: -0px;
+	}
+
+	.pizza-1{
+		transform: translate(-30px);
+		width: 110%;
+	}
+
+	.barry{
+		top: 1230px;
+		right: 0;
+		transform: translate(240px, -30px);
+	}
+
+	.res-icon{
+		transform: translate(0px, 10px);
+ 	}
+
+}
+
+@media (max-width:350px){
+
+	.logo{
+		width:65%;
+		transform: translate(-50px);
+	}
+
+	.res-icon{
+		transform: translate(220px, -70px);
+	}
+
+	.barry{
+		top: 1300px;
+		width: 50%;
+		transform: translate(250px, -30px);
+	}
+
+	.d-right{
+		right: -135px;
+	}
+
+	.pizza-1{
+		top: 850px;
+		width: 140%;
+		transform: translate(80px);
+	}
+
+	.tomato{
+		top: 800px;
+		transform: translate(150px, -30px);
+	}
+
+	.order-sec{
+		transform: translatey(-50px);
+	}
+}
+
+@media (max-width:320px){
+
+	.res-icon{
+		transform: translate(220px, -70px);
+	}
+
+	.barry{
+		top: 1250px;
+		width: 50%;
+		transform: translate(250px, -20px);
+	}
+
+	.d-right{
+		right: -150px;
+	}
+
+	.pizza-1{
+		width: 160%;
+		transform: translate(100px);
+	}
+
+	.tomato{
+		transform: translate(150px, -10px);
+	}
+}
